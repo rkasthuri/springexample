@@ -1,4 +1,4 @@
-http://devops:3965ad3bebaea5aec73b51e5e6721447@ec2-52-14-5-48.us-east-2.compute.amazonaws.com:8080/job/test_maven/build?token=hsfhasgdfshfashjvadhj
+http://raj:0c3bacacefc661a83a9afeabc86d4067@ec2-18-188-198-71.us-east-2.compute.amazonaws.com:8080/job/visacard_mavn_build/build?token=randomstuff
 
 
 
